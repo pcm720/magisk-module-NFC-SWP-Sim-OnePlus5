@@ -66,10 +66,7 @@ print_modname() {
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
 REPLACE="
 /system/vendor/etc/libnfc-nxp.conf
-/system/vendor/etc/libnfc-nxp_yangchengtong.conf
-/system/etc/nfcee_access.xml
-/system/framework/org.simalliance.openmobileapi.jar
-/system/priv-app/SmartcardService/SmartcardService.apk
+/system/vendor/etc/libnfc-nxp_productline.conf
 "
 
 ##########################################################################################
